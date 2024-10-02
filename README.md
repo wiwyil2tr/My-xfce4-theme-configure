@@ -26,7 +26,7 @@ This script provides seamless switching between XFCE and i3wm without needing to
 
 - During installation, you can choose to default to a light or dark theme. Both themes will be installed, and you can modify them in XFCE settings afterward.
 - Some shortcuts have been modified according to i3's operation style.
-- You need to manually change the region in the weather plugin; the default value is Beilin District.
+- You need to manually change the region in the weather plugin
 - This script will not change the default shell; if you are not using zsh, you need to manually use the chsh command to change the default shell.
 - XFCE configurations are all copied; vim, ranger, and zsh can be copied or linked.
 
